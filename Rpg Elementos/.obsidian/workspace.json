@@ -13,18 +13,88 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "1. PRINCIPAL/Geral.canvas",
                 "viewState": {
-                  "x": -562.1029510519465,
-                  "y": -1563.147206553695,
-                  "zoom": -2.1999999999999997
+                  "x": -116.60100781795126,
+                  "y": -1215.7111212898044,
+                  "zoom": -0.8000000000000006
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Geral"
+            }
+          },
+          {
+            "id": "6cf16dc89897fcb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Chicote de água.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chicote de água"
+            }
+          },
+          {
+            "id": "40a7e0d14a9aa6c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alteração corporal"
+            }
+          },
+          {
+            "id": "3f8939f05e41433f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Onda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Onda"
+            }
+          },
+          {
+            "id": "6d272db8af78bf45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Onda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Onda"
+            }
+          },
+          {
+            "id": "87590d7a19842fef",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,9 +256,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "4df4f3bcafd86bfd",
+  "active": "87590d7a19842fef",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "2. CATÁLOGO/2.1. Magias/Onda.md",
+    "Lista de magias.base",
+    "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
+    "2. CATÁLOGO/2.1. Magias/Anél Laguna.md",
+    "2. CATÁLOGO/2.1. Magias/Espelho d'água.md",
+    "2. CATÁLOGO/2.1. Magias/Untitled.md",
+    "2. CATÁLOGO/2.1. Magias/Bola de fogo.md",
+    "2. CATÁLOGO/2.1. Magias/Elemental de água.md",
+    "2. CATÁLOGO/2.1. Magias/Chicote de água.md",
+    "0.Imagens/Elemental.png",
+    "0.Imagens",
+    "1. PRINCIPAL/Geral.canvas",
+    "2. CATÁLOGO/2.1. Magias",
+    "2. CATÁLOGO",
+    "1. PRINCIPAL",
     "Welcome.md"
   ]
 }
