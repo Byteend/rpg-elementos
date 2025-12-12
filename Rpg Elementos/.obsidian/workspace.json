@@ -11,23 +11,6 @@
             "id": "4df4f3bcafd86bfd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. PRINCIPAL/Geral.canvas",
-                "viewState": {
-                  "x": -116.60100781795126,
-                  "y": -1215.7111212898044,
-                  "zoom": -0.8000000000000006
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Geral"
-            }
-          },
-          {
-            "id": "6cf16dc89897fcb3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "2. CATÁLOGO/2.1. Magias/Chicote de água.md",
@@ -39,49 +22,292 @@
             }
           },
           {
-            "id": "40a7e0d14a9aa6c1",
+            "id": "4819fd3b1d22fa79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
+                "file": "2. CATÁLOGO/2.1. Magias/Radiância.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alteração corporal"
+              "title": "Radiância"
             }
           },
           {
-            "id": "3f8939f05e41433f",
+            "id": "5bd6fd3945b45584",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "02e20ce2027c911a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "dff53b7d88a14ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. CATÁLOGO/2.1. Magias/Onda.md",
+                "file": "2. CATÁLOGO/2.1. Magias/Onda de silêncio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onda"
+              "title": "Onda de silêncio"
             }
           },
           {
-            "id": "6d272db8af78bf45",
+            "id": "6b2dec1f93ce58ce",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "cdc16671c9eeaa15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. CATÁLOGO/2.1. Magias/Onda.md",
+                "file": "2. CATÁLOGO/2.1. Magias/Bola de sombras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onda"
+              "title": "Bola de sombras"
             }
           },
           {
-            "id": "87590d7a19842fef",
+            "id": "26eb0f0551e9b79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Lâmina sombria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lâmina sombria"
+            }
+          },
+          {
+            "id": "872858c34cffe828",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "6aff644bed66c660",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "e14a55f7eddf4f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Lótus de fogo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lótus de fogo"
+            }
+          },
+          {
+            "id": "3da8250cae2ded0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Espelho d'água.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Espelho d'água"
+            }
+          },
+          {
+            "id": "ab5fa1f1177d5cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Encantar arma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encantar arma"
+            }
+          },
+          {
+            "id": "86b37dca83a68b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Pilar de luz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pilar de luz"
+            }
+          },
+          {
+            "id": "93f716260451e42b",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "284bf1254b79330a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Feixe de luz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feixe de luz"
+            }
+          },
+          {
+            "id": "fa88cc8efd073ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Corrente sombria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corrente sombria"
+            }
+          },
+          {
+            "id": "6b11d6cb8f6f5f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Fluxo de ar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fluxo de ar"
+            }
+          },
+          {
+            "id": "04b94f516ca3ab14",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "67cc8fe537cf12fa",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "a8e78cc26dc18b6f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "759826e3964fa7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Voar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Voar"
+            }
+          },
+          {
+            "id": "f1bb419c4a86667a",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -94,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -256,23 +482,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "87590d7a19842fef",
+  "active": "f1bb419c4a86667a",
   "lastOpenFiles": [
-    "2. CATÁLOGO/2.1. Magias/Onda.md",
+    "2. CATÁLOGO/2.1. Magias/Avanço de zenfiro.md",
+    "2. CATÁLOGO/2.1. Magias/Voar.md",
     "Lista de magias.base",
-    "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
-    "2. CATÁLOGO/2.1. Magias/Anél Laguna.md",
+    "2. CATÁLOGO/2.1. Magias/Vórtex.md",
+    "2. CATÁLOGO/2.1. Magias/Passos da ventania.md",
+    "2. CATÁLOGO/2.1. Magias/Jato de ar.md",
+    "2. CATÁLOGO/2.1. Magias/Fluxo de ar.md",
+    "2. CATÁLOGO/2.1. Magias/Corrente sombria.md",
+    "2. CATÁLOGO/2.1. Magias/Tela protetora.md",
+    "2. CATÁLOGO/2.1. Magias/Onda de silêncio.md",
+    "2. CATÁLOGO/2.1. Magias/Feixe de luz.md",
+    "2. CATÁLOGO/2.1. Magias/Anel prismático.md",
+    "2. CATÁLOGO/2.1. Magias/Pilar de luz.md",
+    "2. CATÁLOGO/2.1. Magias/Encantar arma.md",
     "2. CATÁLOGO/2.1. Magias/Espelho d'água.md",
-    "2. CATÁLOGO/2.1. Magias/Untitled.md",
-    "2. CATÁLOGO/2.1. Magias/Bola de fogo.md",
+    "2. CATÁLOGO/2.1. Magias/Ondas de Âmbar.md",
+    "2. CATÁLOGO/2.1. Magias/Radiância.md",
+    "2. CATÁLOGO/2.1. Magias/Campo arrasado.md",
+    "2. CATÁLOGO/2.1. Magias/Anél Laguna.md",
+    "2. CATÁLOGO/2.1. Magias/Água curandeira.md",
+    "2. CATÁLOGO/2.1. Magias/Iluminar.md",
+    "2. CATÁLOGO/2.1. Magias/Escudo de chamas.md",
     "2. CATÁLOGO/2.1. Magias/Elemental de água.md",
-    "2. CATÁLOGO/2.1. Magias/Chicote de água.md",
+    "2. CATÁLOGO/2.1. Magias/Lótus de fogo.md",
+    "2. CATÁLOGO/2.1. Magias/Onda.md",
+    "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
+    "2. CATÁLOGO/2.1. Magias/Arder.md",
+    "1. PRINCIPAL/Geral.canvas",
     "0.Imagens/Elemental.png",
     "0.Imagens",
-    "1. PRINCIPAL/Geral.canvas",
     "2. CATÁLOGO/2.1. Magias",
     "2. CATÁLOGO",
-    "1. PRINCIPAL",
-    "Welcome.md"
+    "1. PRINCIPAL"
   ]
 }
