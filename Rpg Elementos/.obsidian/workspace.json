@@ -11,31 +11,20 @@
             "id": "e20821898b2b96ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. CATÁLOGO/2.1. Magias/Escudo de chamas.md",
-                "mode": "source",
-                "source": false
+                "file": "1. PRINCIPAL/Classes.canvas",
+                "viewState": {
+                  "x": 1879.1913206530278,
+                  "y": 3307.0968435353275,
+                  "zoom": -1.6000000000000005
+                }
               },
-              "icon": "lucide-file",
-              "title": "Escudo de chamas"
-            }
-          },
-          {
-            "id": "c66215b0e27fdd07",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Lista de magias.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Lista de magias"
+              "icon": "lucide-layout-dashboard",
+              "title": "Classes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1a25e8afe3efe130",
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "1. PRINCIPAL/Tipos secundários.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Tipos secundários"
             }
           },
           {
@@ -197,36 +186,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "c66215b0e27fdd07",
+  "active": "e20821898b2b96ca",
   "lastOpenFiles": [
-    "2. CATÁLOGO/2.1. Magias/Disparo ácido.md",
-    "2. CATÁLOGO/2.1. Magias/Lâmina envenenada.md",
-    "2. CATÁLOGO/2.1. Magias/Impacto terrestre.md",
-    "Bolha ácida.md",
-    "2. CATÁLOGO/2.1. Magias/Neurotoxina.md",
-    "2. CATÁLOGO/2.1. Magias/Intoxicar.md",
-    "2. CATÁLOGO/2.1. Magias/Dardos venenosos.md",
-    "2. CATÁLOGO/2.1. Magias/Raijin.md",
-    "2. CATÁLOGO/2.1. Magias/Jaula elétrica.md",
+    "2. CATÁLOGO/2.1. Magias/Anel prismático.md",
+    "1. PRINCIPAL/Classes.canvas",
+    "1. PRINCIPAL/Geral.canvas",
+    "1. PRINCIPAL/Tipos secundários.canvas",
+    "2. CATÁLOGO/2.1. Magias/Água curandeira.md",
+    "2. CATÁLOGO/2.1. Magias/Bola de fogo.md",
+    "2. CATÁLOGO/2.1. Magias/Lâmina sombria.md",
+    "2. CATÁLOGO/2.1. Magias/Lançar pedregulho.md",
+    "2. CATÁLOGO/2.1. Magias/Ligação arcana.md",
+    "2. CATÁLOGO/2.1. Magias/Lótus de fogo.md",
     "Lista de magias.base",
-    "2. CATÁLOGO/2.1. Magias/Sentinela celestial.md",
-    "2. CATÁLOGO/2.1. Magias/Lâmina trovão.md",
-    "2. CATÁLOGO/2.1. Magias/Pilar de luz.md",
+    "2. CATÁLOGO/2.1. Magias/Bola de sombras.md",
+    "2. CATÁLOGO/2.1. Magias/Campo arrasado.md",
     "2. CATÁLOGO/2.1. Magias/Clone líquido.md",
     "2. CATÁLOGO/2.1. Magias/Ataque Relâmpago.md",
-    "2. CATÁLOGO/2.1. Magias/Ligação arcana.md",
-    "2. CATÁLOGO/2.1. Magias/Corrente elétrica.md",
-    "1. PRINCIPAL/Geral.canvas",
-    "2. CATÁLOGO/2.1. Magias/Golem de terra.md",
-    "2. CATÁLOGO/2.1. Magias/Elemental de água.md",
-    "2. CATÁLOGO/2.1. Magias/Espelho d'água.md",
-    "2. CATÁLOGO/2.1. Magias/Lançar pedregulho.md",
-    "2. CATÁLOGO/2.1. Magias/Escudo de chamas.md",
-    "2. CATÁLOGO/2.1. Magias/Tela protetora.md",
-    "2. CATÁLOGO/2.1. Magias/Combustão.md",
-    "2. CATÁLOGO/2.1. Magias/Cataclismo.md",
     "2. CATÁLOGO/2.1. Magias/Armadura de rocha.md",
-    "2. CATÁLOGO/2.1. Magias/Bola de fogo.md",
+    "2. CATÁLOGO/2.1. Magias/Arder.md",
+    "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
+    "2. CATÁLOGO/2.1. Magias/Anél Laguna.md",
+    "Untitled.canvas",
+    "2. CATÁLOGO/2.1. Magias/Chicote de água.md",
+    "2. CATÁLOGO/2.1. Magias/Cortina de sombras.md",
+    "2. CATÁLOGO/2.1. Magias/Corrente sombria.md",
+    "2. CATÁLOGO/2.1. Magias/Corrente elétrica.md",
+    "2. CATÁLOGO/2.1. Magias/Combustão.md",
+    "2. CATÁLOGO/2.1. Magias/Avanço de zenfiro.md",
+    "2. CATÁLOGO/2.1. Magias/Espelho d'água.md",
+    "2. CATÁLOGO/2.1. Magias/Enfraquecer.md",
+    "2. CATÁLOGO/2.1. Magias/Toxinas curativas.md",
+    "2. CATÁLOGO/2.1. Magias/Voar.md",
     "0.Imagens/Elemental.png",
     "0.Imagens",
     "2. CATÁLOGO/2.1. Magias",

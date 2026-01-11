@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"1c921fb1896fb30e","type":"text","text":"Os elementos secundários são criados quando se combinam dois ou mais elementos. Diferente das magias que usam dois elementos naturalmente, elementos secundários tem uma essência única e diferente dos elementos que a criaram. ","x":-480,"y":-260,"width":600,"height":160},
+		{"id":"009f204bf4fb3ac7","type":"text","text":"Para aprender uma magia de um elemento secundário, você deve possuir os requisitos daquele elemento. Por exemplo, o elemento \"Morte\" exige que o usuário tenha 2 níveis em sombras e 1 nível em raio.","x":-480,"y":-80,"width":600,"height":160},
+		{"id":"bcf8f93d12a32598","type":"text","text":"Gelo\n\n2 níveis de água e 1 nível de algum elemento de ordem","x":440,"y":-260,"width":600,"height":180,"color":"5"},
+		{"id":"44284c820c145b8f","type":"text","text":"Morte\n\n2 níveis de sombra e 1 nível de raio","x":440,"y":-60,"width":600,"height":180,"color":"6"},
+		{"id":"2a6b0dd7dd86401c","type":"text","text":"Natureza\n\n1 nível de terra, 1 nível de água e 1 nível de algum elemento de energia","x":1060,"y":-260,"width":600,"height":180,"color":"4"},
+		{"id":"255d7d041024249e","type":"text","text":"Sangue\n\n1 nível de água e 1 nível de sombras","x":1060,"y":-60,"width":600,"height":180,"color":"#ff5c5c"},
+		{"id":"b442d2e46c8856a3","type":"text","text":"Espírito\n\n1 nível de luz e 1 nível de sombras","x":440,"y":140,"width":600,"height":180},
+		{"id":"08a3fff77b7a8096","type":"text","text":"Lava\n\n1 nível de Terra e 1 nível de fogo","x":1060,"y":140,"width":600,"height":180,"color":"2"},
+		{"id":"6b2a44171b805ca1","type":"text","text":"Caos\n\n1 nível de veneno e 1 nível de luz","x":1680,"y":-260,"width":600,"height":180,"color":"#2a1313"},
+		{"id":"5eaca8191af213b8","type":"text","text":"Inseto\n\n1 nível de veneno e 1 nível de terra","x":1680,"y":-60,"width":600,"height":180,"color":"#262c07"},
+		{"id":"925c7f304c3a74fb","type":"text","text":"Areia\n\n1 nível de ar e 1 nível de terra","x":1680,"y":140,"width":600,"height":180,"color":"3"}
+	],
+	"edges":[]
+}

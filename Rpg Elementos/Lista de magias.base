@@ -18,3 +18,4 @@ views:
     order:
       - file.name
       - file.tags
+    cardSize: 220
