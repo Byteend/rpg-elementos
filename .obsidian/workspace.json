@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "576feffb1384e87a",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a8bc312538d768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e352dd64814be0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+                "viewState": {
+                  "x": 4729.221768676608,
+                  "y": 2240.702745163403,
+                  "zoom": -2.9999999999999996
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Classes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0589c0037119b368",
+    "type": "split",
+    "children": [
+      {
+        "id": "1672b81b997fc3f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4813ce1bbf114496",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "935a85c1acaee6ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "382a52b25e558fac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c05c8979f699990",
+    "type": "split",
+    "children": [
+      {
+        "id": "56e1c9a4d3d527e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f613cdd0a72acf08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Classes"
+            }
+          },
+          {
+            "id": "c8e2032ccb5b5578",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Classes"
+            }
+          },
+          {
+            "id": "bab21c143aab0819",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bbf486bdb2668517",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "026adf46aa1b6666",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Classes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "12e352dd64814be0",
+  "lastOpenFiles": [
+    "Rpg Elementos/1. PRINCIPAL/Geral.canvas",
+    "Rpg Elementos/1. PRINCIPAL/Tipos secundários.canvas",
+    "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+    "Rpg Elementos/Lista de magias.base"
+  ]
+}
