@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "2. CATÁLOGO/2.1. Magias"
+        - file.folder == "Rpg Elementos/2. CATÁLOGO/2.1. Magias"
     order:
       - file.name
       - file.tags

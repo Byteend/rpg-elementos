@@ -1,4 +1,4 @@
-#terra
+#terra #conjunto 
 
 Causa uma instabilidade no chão em sua volta, causando dano e lentidão por 2 turnos em alvos em até 8m de raio.
 

@@ -1,4 +1,4 @@
-#luz 
+#luz #conjunto 
 
 Atira um raio contra um inimigo, causando dano mágico de luz e cegando-o, fazendo ele perder precisão em seu próximo turno. O alcance da magia é 10m.
 

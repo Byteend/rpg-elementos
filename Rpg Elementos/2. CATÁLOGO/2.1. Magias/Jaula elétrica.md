@@ -1,4 +1,4 @@
-#raio
+#raio #conjunto 
 
 Cria quatro estacas de energia em um quadrado de 5 metros de lado ao redor de um alvo em até 12 metros. Inimigos que tentarem atravessar as arestas ficarão Paralisados por 1 turno.
 

@@ -1,4 +1,4 @@
-#areia
+#areia #conjunto 
 
 Invoca uma tempestade de areia em uma área em até 12m de raio. Ganha movimento e agilidade dentro da tempestade. Inimigos tomam dano todo início de turno e perdem precisão enquanto dentro da tempestade. Dura 3 rodadas.
 

@@ -1,4 +1,4 @@
-#água
+#água #conjunto
 
 Uma grande onda mágica de água é criada e enviada em linha reta.
 Para cada ponto de água utilizado, aumenta o range máximo da onda em 3m.

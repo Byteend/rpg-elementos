@@ -1,4 +1,4 @@
-#morte
+#morte #conjunto 
 
 Invoca um exército de esqueletos para batalhar por você. Os esqueletos causam 2 + d4 de dano físico, 9m de movimento e 12 de esquiva. Os esqueletos também duram 3 rodadas e não ocupam espaços de invocação.
 

@@ -1,4 +1,4 @@
-#natureza
+#natureza #conjunto  
 
 Invoca plantas espinhosas em uma área em 12m de alcance. Inimigos na área tomam dano e lentidão. A área possui 6m de raio.
 

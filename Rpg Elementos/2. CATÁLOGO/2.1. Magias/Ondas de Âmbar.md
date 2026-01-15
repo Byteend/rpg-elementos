@@ -1,4 +1,4 @@
-#luz
+#luz #conjunto 
 
 O usuário emana ondas amarelas de luz em sua volta, curando todos os aliados atingidos. O raio base da magia é 4 metros
 

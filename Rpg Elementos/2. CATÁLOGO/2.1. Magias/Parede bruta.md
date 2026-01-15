@@ -1,4 +1,4 @@
-#terra
+#terra #conjunto 
 
 Cria um paredão de pedra que bloqueia o terreno. A parede tem duração base 1 rodadas e largura base de 6m e altura base de 4m.
 

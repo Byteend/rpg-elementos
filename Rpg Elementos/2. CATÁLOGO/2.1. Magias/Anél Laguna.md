@@ -1,4 +1,4 @@
-#água 
+#água #conjunto 
 
 Invoca um anel em sua volta ou em volta de um aliado em até 12 metros. Ganha um escudo contra dano mágico. Enquanto estiver com este escudo, todo dano de fogo é reduzido pela metade.
 

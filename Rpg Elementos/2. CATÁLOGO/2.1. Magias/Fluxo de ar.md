@@ -1,4 +1,4 @@
-#ar
+#ar #conjunto 
 
 Cria uma área de ventos que aumenta a velocidade de aliados. O raio base da área é de 5m
 

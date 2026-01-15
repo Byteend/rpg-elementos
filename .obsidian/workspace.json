@@ -11,17 +11,13 @@
             "id": "12e352dd64814be0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
-                "viewState": {
-                  "x": 4729.221768676608,
-                  "y": 2240.702745163403,
-                  "zoom": -2.9999999999999996
-                }
+                "file": "Rpg Elementos/Lista de magias.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Classes"
+              "icon": "lucide-table",
+              "title": "Lista de magias"
             }
           }
         ]
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+                "file": "Rpg Elementos/1. PRINCIPAL/Geral.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Classes"
+              "title": "Backlinks for Geral"
             }
           },
           {
@@ -116,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+                "file": "Rpg Elementos/1. PRINCIPAL/Geral.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Classes"
+              "title": "Outgoing links from Geral"
             }
           },
           {
@@ -159,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+                "file": "Rpg Elementos/1. PRINCIPAL/Geral.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Classes"
+              "title": "Outline of Geral"
             }
           }
         ]
@@ -188,9 +184,35 @@
   },
   "active": "12e352dd64814be0",
   "lastOpenFiles": [
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Vórtex.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Voar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Vinhas malditas.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Tornado.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Tempestade de areia.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Tela protetora.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Serpente do deserto.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Sentinela celestial.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Raijin.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Radiância.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Presente da natureza.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Pilar de luz.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Passos da ventania.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Parede bruta.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Ordem de morte.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Ondas de Âmbar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Onda de silêncio.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Onda.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Nevasca.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Neurotoxina.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Maldição do caos.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lótus de fogo.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Ligação arcana.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lançar pedregulho.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lâmina trovão.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lâmina sombria.md",
+    "Rpg Elementos/Lista de magias.base",
     "Rpg Elementos/1. PRINCIPAL/Geral.canvas",
-    "Rpg Elementos/1. PRINCIPAL/Tipos secundários.canvas",
     "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
-    "Rpg Elementos/Lista de magias.base"
+    "Rpg Elementos/1. PRINCIPAL/Tipos secundários.canvas"
   ]
 }

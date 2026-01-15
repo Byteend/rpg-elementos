@@ -1,4 +1,4 @@
-#areia
+#areia #conjunto 
 Lança um jato concentrado de areia contra um inimigo em até 12m. Causa dano de areia mágico e reduz o movimento do alvo por 1 turno.
 
 Para cada ponto de ar: 

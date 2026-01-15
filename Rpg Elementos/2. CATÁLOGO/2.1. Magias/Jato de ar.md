@@ -1,4 +1,4 @@
-#ar 
+#ar #conjunto 
 
 Atira um disparo de ar em um inimigo, causando dano mágico de ar e o empurrando para a direção oposta. Alcance de 12m
 

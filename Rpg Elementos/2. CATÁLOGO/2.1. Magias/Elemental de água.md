@@ -1,4 +1,4 @@
-#água
+#água #conjunto 
 
 Invoca um elemental de corpo de água que lutará por você.
 O elemental tem dano de ataque base 1d4 e causa dano físico de água.

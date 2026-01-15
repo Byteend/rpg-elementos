@@ -1,4 +1,4 @@
-#sombra
+#sombra #conjunto 
 
 Cria uma área de sombras densa, que esconde os seus aliados, aumentando a esquiva deles enquanto dentro das sombras. Pode criar a cortina em até 8m de distância. O raio base da cortina é de 2m.
 

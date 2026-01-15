@@ -1,4 +1,4 @@
-#terra
+#terra #conjunto 
 
 Invoca um golem de terra que lutará com você. O golem tem dano de ataque 4 + d8 de dano de terra físico e 14 de vida base. O golem possui 4 de absorção de dano físico. O golem possui a magia "[[Lançar pedregulho]]" e sempre conjurará a magia com a potência de 3 pontos de terra.
 

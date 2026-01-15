@@ -1,4 +1,4 @@
-#fogo
+#fogo #conjunto 
 
 Conjura uma bola de fogo e atira em um alvo, causando dano mágico de fogo. A bola de fogo explode, causando dano em inimigos próximos do alvo. O range base da bola de fogo é de 8 metros
 

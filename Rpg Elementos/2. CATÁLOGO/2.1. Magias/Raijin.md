@@ -1,4 +1,4 @@
-#raio
+#raio #conjunto 
 
 Conjura um poderoso raio em uma área em até 16m de distância. O raio atinge TODOS os alvos em 8m de raio, causando dano massivo. Caso use ao menos 3 pontos de raio, os atingidos também serão atordoados por 1 rodada.
 

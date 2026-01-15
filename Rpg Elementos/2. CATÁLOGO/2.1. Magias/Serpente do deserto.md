@@ -1,4 +1,4 @@
-#areia
+#areia #conjunto 
 
 Invoca uma serpente feita de areia compactada que avança em linha reta, causa dano e empurra o alvo. Se o alvo for empurrado até uma parede, sofre dano novamente.
 

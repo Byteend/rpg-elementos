@@ -1,4 +1,4 @@
-#fogo
+#fogo #conjunto 
 
 O usuário cria uma poderosa explosão em um alvo, causando dano mágico de fogo massivo em alvos atingidos. A explosão tem raio base de 4 metros
 

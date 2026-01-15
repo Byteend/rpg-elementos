@@ -1,4 +1,4 @@
-#luz 
+#luz #conjunto 
 
 Encanta a arma de um alvo, fazendo-a causar dano de luz mágico adicional nos próximos ataques.
 

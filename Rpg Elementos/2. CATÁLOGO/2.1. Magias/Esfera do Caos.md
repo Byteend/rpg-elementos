@@ -1,4 +1,4 @@
-#caos
+#caos #conjunto 
 
 Dispara uma esfera em um alvo em até 16m, causando 1d100 de dano.
 

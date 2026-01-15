@@ -1,4 +1,4 @@
-#gelo 
+#gelo #conjunto 
 
 Invoca uma tempestade de neve em sua volta, causando dano e lentidão em todos os inimigos atingidos. O raio da magia é de 8m.
 

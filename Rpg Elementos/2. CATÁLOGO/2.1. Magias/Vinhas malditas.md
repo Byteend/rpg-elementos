@@ -1,4 +1,4 @@
-#natureza
+#natureza #conjunto 
 
 Invoca vinhas vivas em um alvo para prende-lo. O alvo deverá fazer um teste de agilidade para se esquivar das vinhas. Caso erre, ele ficará enraizado e deverá refazer o teste de agilidade no final de cada rodada para sair. As vinhas tem vida e podem ser destruídas. Alvos presos tomam dano todo início de turno. A DT base é 14.
 

@@ -1,4 +1,4 @@
-#luz 
+#luz #conjunto 
 
 Cria uma barreira que bloqueia projéteis por 3 rodadas.
 

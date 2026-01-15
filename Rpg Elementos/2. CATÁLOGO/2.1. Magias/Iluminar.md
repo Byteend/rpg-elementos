@@ -1,4 +1,4 @@
-#luz
+#luz #conjunto 
 
 Cria um orbe de luz que ilumina a área, aumentando a precisão de aliados contra inimigos na área iluminada. O raio base é de 4 metros.
 
