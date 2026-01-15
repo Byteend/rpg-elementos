@@ -1,5 +1,5 @@
 #raio
 
-Avança como um raio em até 24 metros de distância, causando dano de ataque + dano de raio mágico em inimigos no caminho.
+Avança como um raio em até 24 metros de distância, atacando com dano adicional de raio mágico em inimigos no caminho.
 
-Para cada ponto de raio, causa d4 de dano adicional
+Para cada ponto de raio, causa 2 + d4 de dano adicional.

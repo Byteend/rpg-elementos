@@ -8,6 +8,8 @@ views:
       - file.name
       - file.tags
     sort:
+      - property: formula.Untitled
+        direction: ASC
       - property: file.tags
         direction: ASC
   - type: cards
