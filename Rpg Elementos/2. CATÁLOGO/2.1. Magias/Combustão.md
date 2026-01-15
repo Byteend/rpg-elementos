@@ -1,7 +1,7 @@
 #fogo #conjunto 
 
 O usuário cria uma poderosa explosão em um alvo, causando dano mágico de fogo massivo em alvos atingidos. A explosão tem raio base de 4 metros
-
+Causa dano adicional igual 2x a inteligência do usuário.
 Para cada ponto de fogo utilizado:
 Causa 5 + d12 de dano
 Aumenta o raio da explosão em 3 metros.

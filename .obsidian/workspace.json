@@ -11,13 +11,14 @@
             "id": "12e352dd64814be0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Rpg Elementos/Lista de magias.base",
-                "viewName": "Table"
+                "file": "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Tempestade de areia.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Lista de magias"
+              "icon": "lucide-file",
+              "title": "Tempestade de areia"
             }
           }
         ]
@@ -184,19 +185,11 @@
   },
   "active": "12e352dd64814be0",
   "lastOpenFiles": [
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Vórtex.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Voar.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Vinhas malditas.md",
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Tornado.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Tempestade de areia.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Tela protetora.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Serpente do deserto.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Sentinela celestial.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Toxinas curativas.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Vinhas malditas.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Voar.md",
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Raijin.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Radiância.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Presente da natureza.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Pilar de luz.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Passos da ventania.md",
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Parede bruta.md",
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Ordem de morte.md",
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Ondas de Âmbar.md",
@@ -206,10 +199,18 @@
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Neurotoxina.md",
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Maldição do caos.md",
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lótus de fogo.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Ligação arcana.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lançar pedregulho.md",
-    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lâmina trovão.md",
     "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lâmina sombria.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Lâmina envenenada.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Jaula elétrica.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Jato de ar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Intoxicar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Impacto terrestre.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Iluminar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Golem de terra.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Fluxo de ar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Feixe de luz.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Estátua de madeira.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Espelho d'água.md",
     "Rpg Elementos/Lista de magias.base",
     "Rpg Elementos/1. PRINCIPAL/Geral.canvas",
     "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
