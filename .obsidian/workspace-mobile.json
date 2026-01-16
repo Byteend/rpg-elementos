@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "2edf6d0449f7172a",
+    "type": "split",
+    "children": [
+      {
+        "id": "32ae0abd5d24a2e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce54dd639c32bd88",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Rpg Elementos/Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac099c528fa27fc4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "17c212cd2d511aee",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ead6007c134e5e11",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "76edd9656f603662",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e1591c7e797029f3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "7e4bfbb48d7507e4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8e32fd7e7c2a6cdb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "95c2efdd1797605f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "815171a7603e33db",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2f5ae1908c0d9e5f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ce54dd639c32bd88",
+  "lastOpenFiles": [
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Iluminar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Golem de terra.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Elemental de água.md",
+    "Untitled.md",
+    "Rpg Elementos/Lista de magias.base",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Voar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Armadura de rocha.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Arpão de gelo.md",
+    "Rpg Elementos/1. PRINCIPAL/Classes.canvas",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Exército de ossos.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Tempestade de areia.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Presente da natureza.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Cura entrópica.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Drenar sangue.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Esfera do Caos.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Vinhas malditas.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Apodrecer.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Ordem de morte.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Maldição do caos.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Agulhas sanguíneas.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Escudo de sangue.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Congelar.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Estátua de madeira.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Fluxo de areia.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Raio mortal.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Arma de sangue.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Serpente do deserto.md",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias/Campo de espinhos.md",
+    "Rpg Elementos/2. CATÁLOGO/2.2. Raças",
+    "Rpg Elementos/0.Imagens/Pasted image 20260113233356.png",
+    "Rpg Elementos/0.Imagens/Pasted image 20260113233643.png",
+    "Rpg Elementos/2. CATÁLOGO/2.1. Magias",
+    "Rpg Elementos/1. PRINCIPAL/Geral.canvas",
+    "Rpg Elementos/1. PRINCIPAL/Tipos secundários.canvas",
+    "Rpg Elementos/0.Imagens/Elemental.png",
+    "Rpg Elementos/2. CATÁLOGO",
+    "Rpg Elementos/1. PRINCIPAL",
+    "Rpg Elementos/0.Imagens",
+    "Rpg Elementos"
+  ]
+}
