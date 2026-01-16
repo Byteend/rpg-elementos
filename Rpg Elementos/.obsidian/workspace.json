@@ -28,17 +28,41 @@
             "id": "43b70ef36c97ab0d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. PRINCIPAL/Geral.canvas",
-                "viewState": {
-                  "x": 420,
-                  "y": -1869.5,
-                  "zoom": -1.265053573470446
-                }
+                "file": "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Geral"
+              "icon": "lucide-file",
+              "title": "Alteração corporal"
+            }
+          },
+          {
+            "id": "578b8a9dabc1a992",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Lista de magias.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Lista de magias"
+            }
+          },
+          {
+            "id": "5723816b6d3b059b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.3 Armaduras/Armadura de ferro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armadura de ferro"
             }
           },
           {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Areia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,43 +242,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "43b70ef36c97ab0d",
+  "active": "5723816b6d3b059b",
   "lastOpenFiles": [
-    "1. PRINCIPAL/Tipos secundários.canvas",
-    "1. PRINCIPAL/Classes.canvas",
     "Lista de magias.base",
+    "2. CATÁLOGO/2.3 Armaduras/Capa celestial.md",
+    "2. CATÁLOGO/2.3 Armaduras/Manto do caçador.md",
+    "2. CATÁLOGO/2.3 Armaduras/Roupas de couro.md",
+    "2. CATÁLOGO/2.3 Armaduras/Roupões de bruxo.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Adaga de ferro.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Bastão de madeira.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Espada curta de ferro.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Arco de madeira.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Escudo de ferro.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Escudo de madeira.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Besta do aprendiz.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Espada longa de ferro.md",
+    "2. CATÁLOGO/2.4 Armas e Escudos/Machado de ferro.md",
+    "2. CATÁLOGO/2.3 Armaduras/Armadura de ferro.md",
+    "2. CATÁLOGO/2.3 Armaduras/Capa sombria.md",
+    "1. PRINCIPAL/Classes.canvas",
+    "2. CATÁLOGO/2.4 Armas e Escudos",
+    "0.Imagens/Elemental.png",
+    "0.Imagens/Pasted image 20260113233356.png",
+    "0.Imagens/Pasted image 20260113233643.png",
+    "1. PRINCIPAL/Tipos secundários.canvas",
+    "1. PRINCIPAL/Geral.canvas",
+    "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
+    "2. CATÁLOGO/2.3 Armaduras",
+    "2. CATÁLOGO/2.1. Magias/Anél Laguna.md",
+    "2. CATÁLOGO/2.1. Magias/Agulhas sanguíneas.md",
+    "2. CATÁLOGO/2.1. Magias/Avanço de zenfiro.md",
+    "2. CATÁLOGO/2.1. Magias/Bola de sombras.md",
+    "2. CATÁLOGO/2.1. Magias/Campo arrasado.md",
     "2. CATÁLOGO/2.2. Raças/Humano.md",
     "2. CATÁLOGO/2.2. Raças/Elfo.md",
     "2. CATÁLOGO/2.1. Magias/Vinhas malditas.md",
     "2. CATÁLOGO/2.1. Magias/Vórtex.md",
-    "2. CATÁLOGO/2.1. Magias/Voar.md",
-    "2. CATÁLOGO/2.1. Magias/Tempestade de areia.md",
-    "2. CATÁLOGO/2.1. Magias/Tornado.md",
-    "2. CATÁLOGO/2.1. Magias/Toxinas curativas.md",
-    "2. CATÁLOGO/2.1. Magias/Tela protetora.md",
-    "2. CATÁLOGO/2.1. Magias/Serpente do deserto.md",
-    "2. CATÁLOGO/2.1. Magias/Sentinela celestial.md",
-    "2. CATÁLOGO/2.1. Magias/Jaula elétrica.md",
-    "2. CATÁLOGO/2.1. Magias/Bola de fogo.md",
-    "2. CATÁLOGO/2.1. Magias/Avanço de zenfiro.md",
-    "2. CATÁLOGO/2.1. Magias/Arpão de gelo.md",
-    "2. CATÁLOGO/2.1. Magias/Armadura gélida.md",
-    "2. CATÁLOGO/2.1. Magias/Agulhas sanguíneas.md",
-    "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
-    "2. CATÁLOGO/2.1. Magias/Anel prismático.md",
-    "1. PRINCIPAL/Geral.canvas",
-    "0.Imagens/Pasted image 20260113233643.png",
     "Pasted image 20260113233307.png",
-    "0.Imagens/Pasted image 20260113233356.png",
     "2. CATÁLOGO/2.2. Raças",
-    "2. CATÁLOGO/2.1. Magias/Fluxo de areia.md",
-    "2. CATÁLOGO/2.1. Magias/Disparo de areia.md",
-    "2. CATÁLOGO/2.1. Magias/Chicote de água.md",
-    "2. CATÁLOGO/2.1. Magias/Campo de espinhos.md",
-    "2. CATÁLOGO/2.1. Magias/Bola de sombras.md",
-    "2. CATÁLOGO/2.1. Magias/Armadura de rocha.md",
     "Untitled.canvas",
-    "0.Imagens/Elemental.png",
     "0.Imagens",
     "2. CATÁLOGO/2.1. Magias",
     "2. CATÁLOGO",
