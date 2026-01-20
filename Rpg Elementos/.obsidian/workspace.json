@@ -8,38 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e20821898b2b96ca",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. PRINCIPAL/Tipos secundários.canvas",
-                "viewState": {
-                  "x": 900,
-                  "y": 400.11572629051636,
-                  "zoom": -0.8657833900499189
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tipos secundários"
-            }
-          },
-          {
-            "id": "43b70ef36c97ab0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alteração corporal"
-            }
-          },
-          {
-            "id": "578b8a9dabc1a992",
+            "id": "bd3c655ff66c1559",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -52,35 +21,108 @@
             }
           },
           {
-            "id": "5723816b6d3b059b",
+            "id": "35554d65273ced8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. CATÁLOGO/2.3 Armaduras/Capa celestial.md",
-                "mode": "source",
-                "source": false
+                "file": "1. PRINCIPAL/Tipos secundários.canvas",
+                "viewState": {
+                  "x": 1138.7250900360145,
+                  "y": -195.42136854741884,
+                  "zoom": -0.8657833900499189
+                }
               },
-              "icon": "lucide-file",
-              "title": "Capa celestial"
+              "icon": "lucide-layout-dashboard",
+              "title": "Tipos secundários"
             }
           },
           {
-            "id": "a6f676d0bdf68be5",
+            "id": "a7b3b3bd678632e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. CATÁLOGO/2.1. Magias/Fluxo de areia.md",
+                "file": "2. CATÁLOGO/2.1. Magias/Jato de ar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fluxo de areia"
+              "title": "Jato de ar"
+            }
+          },
+          {
+            "id": "7177d3c39053a5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Fluxo de ar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fluxo de ar"
+            }
+          },
+          {
+            "id": "a194ba0bdc02f941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Vórtex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vórtex"
+            }
+          },
+          {
+            "id": "ebada4c23fecb2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Voar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Voar"
+            }
+          },
+          {
+            "id": "6ed46696626bd0e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Passos da ventania.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Passos da ventania"
+            }
+          },
+          {
+            "id": "4a9e8fcf983bf32a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. CATÁLOGO/2.1. Magias/Avanço de zenfiro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Avanço de zenfiro"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,42 +284,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "578b8a9dabc1a992",
+  "active": "35554d65273ced8f",
   "lastOpenFiles": [
-    "2. CATÁLOGO/2.1. Magias/Águas curandeiras.md",
-    "2. CATÁLOGO/2.1. Magias/Agulhas sanguíneas.md",
-    "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
-    "2. CATÁLOGO/2.1. Magias/Anél Laguna.md",
-    "2. CATÁLOGO/2.1. Magias/Anel prismático.md",
     "Lista de magias.base",
-    "1. PRINCIPAL/Classes.canvas",
-    "2. CATÁLOGO/2.1. Magias/Untitled.md",
+    "2. CATÁLOGO/2.1. Magias/Tornado.md",
+    "2. CATÁLOGO/2.1. Magias/Jato de ar.md",
+    "2. CATÁLOGO/2.1. Magias/Fluxo de ar.md",
+    "2. CATÁLOGO/2.1. Magias/Avanço de zenfiro.md",
+    "2. CATÁLOGO/2.1. Magias/Passos da ventania.md",
+    "2. CATÁLOGO/2.1. Magias/Voar.md",
+    "2. CATÁLOGO/2.1. Magias/Vórtex.md",
+    "2. CATÁLOGO/2.1. Magias/Laço da eternidade.md",
+    "2. CATÁLOGO/2.1. Magias/Olhos perfurantes.md",
+    "2. CATÁLOGO/2.1. Magias/Portão dos dois mundos.md",
+    "2. CATÁLOGO/2.1. Magias/Palmada espiritual.md",
+    "2. CATÁLOGO/2.1. Magias/Águas curandeiras.md",
+    "1. PRINCIPAL/Tipos secundários.canvas",
+    "1. PRINCIPAL/Geral.canvas",
+    "2. CATÁLOGO/2.1. Magias/Disparo de lama.md",
+    "2. CATÁLOGO/2.1. Magias/Tornado flamejante.md",
+    "2. CATÁLOGO/2.1. Magias/Fluxo de areia.md",
     "2. CATÁLOGO/2.3 Armaduras/Capa celestial.md",
-    "2. CATÁLOGO/2.3 Armaduras/Capa sombria.md",
-    "2. CATÁLOGO/2.3 Armaduras/Armadura de ferro.md",
-    "2. CATÁLOGO/2.3 Armaduras/Manto do caçador.md",
-    "2. CATÁLOGO/2.4 Armas e Escudos/Machado de ferro.md",
-    "2. CATÁLOGO/2.1. Magias/Espelho d'água.md",
-    "2. CATÁLOGO/2.1. Magias/Clone líquido.md",
-    "2. CATÁLOGO/2.3 Armaduras/Roupas de couro.md",
-    "2. CATÁLOGO/2.3 Armaduras/Roupões de bruxo.md",
-    "2. CATÁLOGO/2.2. Raças/Humano.md",
-    "2. CATÁLOGO/2.1. Magias/Ligação arcana.md",
-    "2. CATÁLOGO/2.1. Magias/Corrente sombria.md",
+    "2. CATÁLOGO/2.1. Magias/Explosão terrestre.md",
+    "2. CATÁLOGO/2.1. Magias/Sopro de água pressurizada.md",
+    "1. PRINCIPAL/Classes.canvas",
+    "2. CATÁLOGO/2.1. Magias/Tempestade de areia.md",
+    "2. CATÁLOGO/2.1. Magias/Raijin.md",
+    "2. CATÁLOGO/2.1. Magias/Ataque Relâmpago.md",
     "2. CATÁLOGO/2.1. Magias/Cortina de sombras.md",
-    "2. CATÁLOGO/2.1. Magias/Corrente elétrica.md",
-    "2. CATÁLOGO/2.1. Magias/Congelar.md",
-    "2. CATÁLOGO/2.1. Magias/Combustão.md",
+    "2. CATÁLOGO/2.1. Magias/Espelho d'água.md",
+    "2. CATÁLOGO/2.1. Magias/Alteração corporal.md",
     "2. CATÁLOGO/2.1. Magias/Chicote de água.md",
-    "2. CATÁLOGO/2.1. Magias/Cataclismo.md",
-    "2. CATÁLOGO/2.1. Magias/Campo de espinhos.md",
-    "2. CATÁLOGO/2.1. Magias/Campo arrasado.md",
     "2. CATÁLOGO/2.4 Armas e Escudos",
     "0.Imagens/Elemental.png",
     "0.Imagens/Pasted image 20260113233356.png",
     "0.Imagens/Pasted image 20260113233643.png",
-    "1. PRINCIPAL/Tipos secundários.canvas",
-    "1. PRINCIPAL/Geral.canvas",
     "2. CATÁLOGO/2.3 Armaduras",
     "Pasted image 20260113233307.png",
     "2. CATÁLOGO/2.2. Raças",

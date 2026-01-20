@@ -4,5 +4,5 @@ Atira um disparo de ar em um inimigo, causando dano mágico de ar e o empurrando
 Causa dano adicional igual a inteligência do usuário.
 
 Para cada ponto de ar:
-Causa 2 + d6 de dano;
+Causa 3 + d8 de dano;
 aumenta em 2m a distância empurrada;
